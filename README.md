@@ -8,7 +8,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nezumi0627&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-# NOW TRAINING
+# MY SNS
 
 <div align="left" style="border: 2px solid #87ceeb; border-radius: 10px; padding: 10px;">
   <a href="https://twitter.com/[Foo]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
