@@ -2,7 +2,7 @@
 ### Just 15 years old
 ### "A free life, a free BOT!"
 
-![nezumi0627's GitHub stats](https://github-readme-stats.vercel.app/api?username=nezumi0627&show_icons=true&theme=vue-cobalt)
+![nezumi0627's GitHub stats](https://github-readme-stats.vercel.app/api?username=nezumi0627&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nezumi0627&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
