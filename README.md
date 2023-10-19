@@ -1,4 +1,4 @@
-# Backend Developer in Japan👋
+# I'm a Japanese apprentice programmer.👋
 ### Just 15 years old
 ### "A free life, a free BOT!"
 
@@ -8,7 +8,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nezumi0627&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://twitter.com/Masa36940064)
+[![My Twitter Followers](https://badgen.net/twitter/follow/Nezuse_627)](https://twitter.com/Nezuse_627)
 
 # NOW TRAINING
 
