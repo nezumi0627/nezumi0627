@@ -41,8 +41,6 @@
 
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello new Mouse">
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/nezumi0627/count.svg" />
