@@ -8,8 +8,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nezumi0627&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![My Twitter Followers](https://badgen.net/twitter/followers/Nezuse_627)](https://twitter.com/Nezuse_627)
-
 # NOW TRAINING
 
 <p align="center" style="border: 2px solid #87ceeb; padding: 10px;">
