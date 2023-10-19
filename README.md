@@ -2,9 +2,10 @@
 ### Just 15 years old
 ### "A free life, a free BOT!"
 
-<div align="center" style="border: 2px solid #87ceeb; border-radius: 10px; padding: 10px;">
-  <img src="https://github.com/nezumi0627.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; border: 5px solid #87ceeb;">
+<div align="center" style="border: 2px solid #87ceeb; border-radius: 10px; padding: 10px; overflow: hidden; width: 150px; height: 150px;">
+  <img src="https://github.com/nezumi0627.png" alt="Profile Picture" style="border-radius: 50%; border: 5px solid #87ceeb; width: 100%; height: 100%; object-fit: cover;">
 </div>
+
 
 ![nezumi0627's GitHub stats](https://github-readme-stats.vercel.app/api?username=nezumi0627&show_icons=true&theme=vue-dark)
 
