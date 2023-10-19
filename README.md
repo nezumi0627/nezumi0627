@@ -1,6 +1,6 @@
 # Backend Developer in Japan👋
 ### Just 15 years old
-### Feel free to contact me anytime!👍
+### "A free life, a free BOT!"
 
 ![nezumi0627's GitHub stats](https://github-readme-stats.vercel.app/api?username=nezumi0627&show_icons=true&theme=vue-dark)
 
@@ -21,16 +21,9 @@
   <a href="[nezumi.project0627@gmail.com]"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=[nezumi.project0627@gmail.com]"/></a>
 </p>
 
-# My Skill (Programming Languages, Frameworks, and Tools)
-
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,sqlite,mysql,github,vscode,docker,laravel,cakephp,discord,php,gutlab,jquery,aws,vite" /> <br /><br />
-
-※ Another skill and tools
-Codeigniter, Virtual Box, CakePHP, CircleCI, and so on.
-
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker,vscode,github" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,discord,php,python,java" /> <br /><br />
 
 <!-- --------------------------------- :) ---------------------------------- -->
 
