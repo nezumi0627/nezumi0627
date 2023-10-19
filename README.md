@@ -2,6 +2,13 @@
 ### Just 15 years old
 ### "A free life, a free BOT!"
 
+<div align="center" style="border: 2px solid #87ceeb; border-radius: 10px; padding: 10px; width: 150px; height: 150px; overflow: hidden;">
+  <div style="width: 100%; height: 100%; border-radius: 50%; overflow: hidden;">
+    <img src="https://github.com/nezumi0627.png" alt="Profile Picture" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+</div>
+
+
 ![nezumi0627's GitHub stats](https://github-readme-stats.vercel.app/api?username=nezumi0627&show_icons=true&theme=vue-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nezumi0627&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
