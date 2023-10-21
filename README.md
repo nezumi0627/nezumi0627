@@ -4,6 +4,8 @@
 ### Just 15 years old
 ### "A free life, a free BOT!"
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark?quote=test)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ![nezumi0627's GitHub stats](https://github-readme-stats.vercel.app/api?username=nezumi0627&show_icons=true&theme=cobalt)
 
 
