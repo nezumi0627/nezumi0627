@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # I'm a Japanese apprentice programmer.👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=35&duration=9000&pause=1000&color=4380C3&center=true&random=true&width=435&lines=Welcome+to+my+page!!)](https://git.io/typing-svg)
@@ -29,7 +29,7 @@
 
 <br><br><br>
 
-<div align="center">
+<div align="left">
     <h1>
         <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif" style="border: 2px solid #87ceeb;">・・
         <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif" style="border: 2px solid #87ceeb;">・・
