@@ -1,7 +1,9 @@
 <div align="left">
+  <h1 align="center" style="color: #2e8b57;">Hi 👋, I'm NEZUMI</h1>
+  <h3 align="center" style="color: #2e8b57;">I'm a Japanese apprentice programmer.👋</h3>
 
-# I'm a Japanese apprentice programmer.👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=35&duration=9000&pause=1000&color=4380C3&center=true&random=true&width=435&lines=Welcome+to+my+page!!)](https://git.io/typing-svg)
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=35&color=2e8b57&center=true&width=435&lines=Welcome+to+my+page!!)](https://git.io/typing-svg)
 
 ### Just 15 years old
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=A%20free%20life,%20a%20free%20BOT&author=Nezumi&border=true&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
