@@ -4,6 +4,8 @@
 
 ![nezumi0627's GitHub stats](https://github-readme-stats.vercel.app/api?username=nezumi0627&show_icons=true&theme=cobalt)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=35&duration=9000&pause=1000&color=4380C3&center=true&random=true&width=435&lines=Welcome+to+my+page!!)](https://git.io/typing-svg)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nezumi0627&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nezumi0627&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
