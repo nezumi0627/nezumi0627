@@ -37,7 +37,7 @@
 </div>
 
   <div style="margin-left: 20px;">
-    <img src="https://raw.githubusercontent.com/nezumi0627/Images/main/comhiclipartngqbm-removebg-preview.png" alt="NEZUMIPROJECT" width="550">
+    <img src="https://raw.githubusercontent.com/nezumi0627/Images/main/comhiclipartngqbm-removebg-preview.png" alt="NEZUMIPROJECT" width="200">
   </div>
 
 <!-- --------------------------------- :D ---------------------------------- -->
