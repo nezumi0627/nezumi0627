@@ -1,11 +1,11 @@
 <div align="left">
+  <div style="float: right; margin-left: 20px;">
+    <img src="https://raw.githubusercontent.com/nezumi0627/Images/main/comhiclipartngqbm-removebg-preview.png" alt="NEZUMIPROJECT" width="550">
+  </div>
   <div>
     <h1 align="center" style="color: #6495ed;">Hi 👋, I'm NEZUMI</h1>
     <h3 align="center" style="color: #6495ed;">I'm a Japanese apprentice programmer. Just 15 years old👋</h3>
-    <!-- The rest of your content here -->
-  </div>
-  <div style="float: right; margin-left: 20px;">
-    <img src="https://raw.githubusercontent.com/nezumi0627/Images/main/comhiclipartngqbm-removebg-preview.png" alt="NEZUMIPROJECT" width="550">
+    <!-- その他のコンテンツをここに追加してください -->
   </div>
 </div>
 
