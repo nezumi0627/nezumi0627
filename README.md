@@ -1,6 +1,14 @@
 <div align="left">
-  <h1 align="center" style="color: #6495ed;">Hi 👋, I'm NEZUMI</h1>
-  <h3 align="center" style="color: #6495ed;">I'm a Japanese apprentice programmer. Just 15 years old👋</h3>
+  <div style="float: left; margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/nezumi0627/Images/main/comhiclipartngqbm-removebg-preview.png" alt="NEZUMIPROJECT" width="150">
+  </div>
+  <div>
+    <h1 align="center" style="color: #6495ed;">Hi 👋, I'm NEZUMI</h1>
+    <h3 align="center" style="color: #6495ed;">I'm a Japanese apprentice programmer. Just 15 years old👋</h3>
+    <!-- The rest of your content here -->
+  </div>
+</div>
+
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=35&color=6495ed&center=true&width=435&lines=Welcome+to+my+page!!)](https://git.io/typing-svg)
 
@@ -31,6 +39,8 @@
 <div style="border: 2px solid #87ceeb; border-radius: 10px; padding: 10px;">
   <img src="https://skillicons.dev/icons?i=html,css,js,discord,php,python,java" />
 </div>
+
+
 
 <!-- --------------------------------- :D ---------------------------------- -->
 
