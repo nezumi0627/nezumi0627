@@ -12,8 +12,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nezumi0627&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nezumi0627&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://x.com/nezum1zum1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nezum1zum1" height="30" width="40" /></a>
