@@ -15,4 +15,4 @@ I'm a Japanese apprentice programmer, just 15 years old 👋
 
 ## Visitor count
 
-![Visitor Count](https://profile-counter.glitch.me/nezumi0627/count.svg)
+[<img src="https://profile-counter.glitch.me/nezumi0627/count.svg" height="100" width="100">](https://profile-counter.glitch.me/nezumi0627/count.svg)
