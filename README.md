@@ -37,10 +37,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,discord,php,python,java" />
 </div>
 
-<div style="margin-left: 20px;">
-  <img src="https://raw.githubusercontent.com/nezumi0627/Images/main/comhiclipartngqbm-removebg-preview.png" alt="NEZUMIPROJECT" width="200">
-</div>
-
 <!-- --------------------------------- :D ---------------------------------- -->
 
 # Hey there :wave:
