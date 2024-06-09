@@ -7,18 +7,11 @@
 ## Welcome to my page!! 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=35&color=6495ed&center=true&width=435&lines=Welcome+to+my+page!!)](https://git.io/typing-svg)
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
+## GitHub Stats
+![nezumi0627's GitHub stats](https://github-readme-stats.vercel.app/api?username=nezumi0627&show_icons=true&theme=cobalt)
 
-    ## GitHub Stats
-    ![nezumi0627's GitHub stats](https://github-readme-stats.vercel.app/api?username=nezumi0627&show_icons=true&theme=cobalt)
-  </div>
-  <div>
-
-    ## Top Languages
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nezumi0627&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
-</div>
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nezumi0627&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=nezumi0627&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
