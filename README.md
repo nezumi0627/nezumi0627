@@ -4,9 +4,10 @@
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=35&color=6495ed&center=true&width=435&lines=Welcome+to+my+page!!" alt="Typing SVG">
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=nezumi0627&show_icons=true&theme=cobalt" alt="nezumi0627's GitHub stats">
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezumi0627&layout=compact&theme=vue-dark" alt="Top Langs">
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=nezumi0627&show_icons=true&theme=cobalt" alt="nezumi0627's GitHub stats" style="margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezumi0627&layout=compact&theme=vue-dark" alt="Top Langs" style="margin-left: 10px;">
+  </div>
   <br><br>
   <h3>Connect with me:</h3>
   <p>
