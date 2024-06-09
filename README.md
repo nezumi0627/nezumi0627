@@ -9,10 +9,12 @@
 
 <div style="display: flex; justify-content: space-between;">
   <div>
+
     ## GitHub Stats
     ![nezumi0627's GitHub stats](https://github-readme-stats.vercel.app/api?username=nezumi0627&show_icons=true&theme=cobalt)
   </div>
   <div>
+
     ## Top Languages
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nezumi0627&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
   </div>
