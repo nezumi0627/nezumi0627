@@ -16,14 +16,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nezumi0627&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-# MY SNS
-<p align="left"> <a href="https://twitter.com/nezuse_627" target="blank"><img src="https://img.shields.io/twitter/follow/nezuse_627?logo=twitter&style=for-the-badge" alt="nezuse_627" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nezuse_627" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nezuse_627" height="30" width="40" /></a>
-<a href="https://instagram.com/nezumi_line" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nezumi_line" height="30" width="40" /></a>
-<a href="https://discord.gg/tGWqSGQ9m7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tGWqSGQ9m7" height="30" width="40" /></a>
+<a href="https://x.com/nezum1zum1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nezum1zum1" height="30" width="40" /></a>
+<a href="https://www.instagram.com/n.renya627/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n.renya627" height="30" width="40" /></a>
+<a href="https://discord.gg/6bR68WcNkP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6bR68WcNkP" height="30" width="40" /></a>
 </p>
 
 # Languages and Tools:
