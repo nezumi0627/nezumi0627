@@ -1,6 +1,6 @@
 # Hi 👋, I'm NEZUMI
 
-I'm a Japanese apprentice programmer, just 15 years old 👋
+I'm a Japanese apprentice programmer, just 16 years old 👋
 
 ## Stats
 
