@@ -2,6 +2,8 @@
 
 I'm a Japanese apprentice programmer, just 16 years old 👋
 
+like lang: Python Rust C
+
 ## Stats
 
 ![nezumi0627's GitHub stats](https://github-readme-stats.vercel.app/api?username=nezumi0627&show_icons=true&theme=cobalt)
