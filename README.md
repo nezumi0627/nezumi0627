@@ -10,7 +10,7 @@ I'm a Japanese apprentice programmer, just 16 years old 👋
 ## Connect with me
 
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="100" width="100">](https://x.com/nezum1zum1)
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="100" width="100">](https://www.instagram.com/n.renya627/)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="100" width="100">](https://www.instagram.com/nezum1.1zumu)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="100" width="100">](https://discord.com/invite/6bR68WcNkP)
 
 ## Visitor count
