@@ -2,7 +2,7 @@
 
 I'm a Japanese apprentice programmer, just 16 years old 👋
 
-like lang: Python Rust C JAVA JS
+like lang: Python Rust C JAVA JS KOTLIN
 
 ## Stats
 
