@@ -1,7 +1,7 @@
 # 🐭 NEZUMI's Tech Lab
 
 <div align="center">
-
+  
 [![GitHub followers](https://img.shields.io/github/followers/nezumi0627?style=for-the-badge&logo=github&labelColor=000000&color=4CAF50)](https://github.com/nezumi0627)
 [![Twitter Follow](https://img.shields.io/twitter/follow/nezum1zum1?style=for-the-badge&logo=twitter&labelColor=000000&color=1DA1F2&logoColor=white)](https://twitter.com/nezum1zum1)
 
@@ -40,9 +40,9 @@
 ## 📊 Code Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezumi0627&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=nezumi0627&theme=radical&row=2&column=3" alt="GitHub Trophies" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nezumi0627&show_icons=true&theme=radical" alt="GitHub Stats" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezumi0627&layout=compact&theme=radical" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nezumi0627&show_icons=true&theme=radical" alt="GitHub Stats" width="45%">
+</div>
 </div>
 
 ## 🌐 Social Media

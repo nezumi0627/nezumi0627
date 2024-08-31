@@ -40,9 +40,9 @@
 ## 📊 コード統計
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezumi0627&layout=compact&theme=radical" alt="トップ言語" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=nezumi0627&theme=radical&row=2&column=3" alt="GitHubトロフィー" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nezumi0627&show_icons=true&theme=radical" alt="GitHub Stats" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezumi0627&layout=compact&theme=radical" alt="トップ言語" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nezumi0627&show_icons=true&theme=radical" alt="GitHub Stats" width="45%">
+</div>
 </div>
 
 ## 🌐 SNS
