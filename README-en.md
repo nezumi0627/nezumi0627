@@ -1,27 +1,27 @@
-# 🐭 ねずみにうむ研究所
+# 🐭 NEZUMI's Tech Lab
 
 <div align="center">
-  
+
 [![GitHub followers](https://img.shields.io/github/followers/nezumi0627?style=for-the-badge&logo=github&labelColor=000000&color=4CAF50)](https://github.com/nezumi0627)
 [![Twitter Follow](https://img.shields.io/twitter/follow/nezum1zum1?style=for-the-badge&logo=twitter&labelColor=000000&color=1DA1F2&logoColor=white)](https://twitter.com/nezum1zum1)
 
 </div>
 
-> 福岡住みの 高校生プログラマー。コードと創造性で未来を描くねずみです。
+> A high school programmer from Fukuoka, Japan. I'm a mouse drawing the future with code and creativity.
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🚀 自己紹介</h3>
+      <h3>🚀 About Me</h3>
       <ul>
-        <li>🖥️ モットー: 高校生開発者として同年代に負けないよう技術を磨く</li>
-        <li>🌟 2024年の目標: より多くの技術取得</li>
+        <li>🖥️ Motto: Honing my skills to stay competitive among fellow high school developers</li>
+        <li>🌟 2024 Goal: Acquire more technical skills</li>
       </ul>
     </td>
   </tr>
 </table>
 
-## 🛠 テックスキルセット
+## 🛠 Tech Skill Set
 
 <div align="center">
 
@@ -29,7 +29,7 @@
 
 </div>
 
-## 🌟 最近のプロジェクト
+## 🌟 Recent Projects
 
 <div align="center">
   <a href="https://github.com/nezumi0627/nezu-notify">
@@ -37,15 +37,15 @@
   </a>
 </div>
 
-## 📊 コード統計
+## 📊 Code Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezumi0627&layout=compact&theme=radical" alt="トップ言語" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=nezumi0627&theme=radical&row=2&column=3" alt="GitHubトロフィー" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezumi0627&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nezumi0627&theme=radical&row=2&column=3" alt="GitHub Trophies" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=nezumi0627&show_icons=true&theme=radical" alt="GitHub Stats" width="100%">
 </div>
 
-## 🌐 SNS
+## 🌐 Social Media
 
 <div align="center">
 
@@ -57,7 +57,7 @@
 
 <div align="center">
 
-## 👀 訪問者カウンター
+## 👀 Visitor Counter
 
 ![Visitor Count](https://profile-counter.glitch.me/nezumi0627/count.svg)
 
@@ -74,10 +74,10 @@
 ---
 
 <details>
-<summary>💡 モットー</summary>
+<summary>💡 Motto</summary>
 
-> コードは私の言葉、技術は私の翼。
-> 日々の学びが、明日の革新を生み出す。
-> 小さな進歩の積み重ねが、大きな変化を起こす力になる。
+> Code is my language, technology is my wings.
+> Daily learning leads to tomorrow's innovation.
+> Small progress accumulates to create the power for big changes.
 
 </details>
