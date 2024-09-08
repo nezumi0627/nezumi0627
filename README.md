@@ -9,7 +9,8 @@
 
 > 福岡住みの 高校生プログラマー。コードと創造性で未来を描くねずみです。
 
-<div style="margin: 0 auto; width: 50%;">
+
+<div style="display: flex; justify-content: center; width: 100%;">
   <table>
     <tr>
       <td width="50%">
