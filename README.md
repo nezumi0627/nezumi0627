@@ -9,6 +9,7 @@
 
 > 福岡住みの 高校生プログラマー。コードと創造性で未来を描くねずみです。
 
+<div align="center">
 
 <div style="text-align: center;">
   <table style="margin: 0 auto;">
