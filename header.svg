@@ -1,0 +1,199 @@
+<svg width="1500" height="800" viewBox="0 0 1500 800" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <!-- より深みのある背景グラデーション -->
+        <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#040812"/>
+            <stop offset="35%" style="stop-color:#0A1122"/>
+            <stop offset="70%" style="stop-color:#111936"/>
+            <stop offset="100%" style="stop-color:#162040"/>
+        </linearGradient>
+
+        <!-- 高級感のあるアクセントグラデーション -->
+        <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%" gradientTransform="rotate(0)">
+            <stop offset="0%" style="stop-color:#9F7AEA"/>
+            <stop offset="50%" style="stop-color:#667EEA"/>
+            <stop offset="100%" style="stop-color:#4299E1"/>
+            <animate attributeName="gradientTransform"
+                values="rotate(0);rotate(360)"
+                dur="15s"
+                repeatCount="indefinite"/>
+        </linearGradient>
+
+        <!-- クリスタルのような光沢効果 -->
+        <filter id="crystalGlow" x="-100%" y="-100%" width="300%" height="300%">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="6"/>
+            <feColorMatrix type="matrix" values="
+                1 0 0 0 0
+                0 1 0 0 0
+                0 0 1 0 0
+                0 0 0 20 -8"/>
+        </filter>
+
+        <!-- 繊細なテキストエフェクト -->
+        <filter id="textEffect">
+            <feGaussianBlur in="SourceAlpha" stdDeviation="2" result="blur"/>
+            <feOffset in="blur" dx="0" dy="2" result="offsetBlur"/>
+            <feFlood flood-color="#9F7AEA" flood-opacity="0.3" result="glowColor"/>
+            <feComposite in="glowColor" in2="offsetBlur" operator="in" result="softGlow"/>
+            <feMerge>
+                <feMergeNode in="softGlow"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+
+        <!-- 星空パターンの改良 -->
+        <pattern id="starPattern" x="0" y="0" width="200" height="200" patternUnits="userSpaceOnUse">
+            <!-- 大きな星 -->
+            <circle cx="40" cy="40" r="0.7" fill="#ffffff">
+                <animate attributeName="opacity" values="0.1;0.4;0.1" dur="4s" repeatCount="indefinite"/>
+            </circle>
+            <!-- 中くらいの星 -->
+            <circle cx="150" cy="50" r="0.5" fill="#ffffff">
+                <animate attributeName="opacity" values="0.1;0.3;0.1" dur="3s" repeatCount="indefinite"/>
+            </circle>
+            <!-- 小さな星群 -->
+            <g fill="#ffffff">
+                <circle cx="100" cy="150" r="0.3">
+                    <animate attributeName="opacity" values="0.1;0.3;0.1" dur="5s" repeatCount="indefinite"/>
+                </circle>
+                <circle cx="180" cy="180" r="0.2">
+                    <animate attributeName="opacity" values="0.1;0.4;0.1" dur="3.5s" repeatCount="indefinite"/>
+                </circle>
+                <circle cx="60" cy="120" r="0.4">
+                    <animate attributeName="opacity" values="0.1;0.2;0.1" dur="4.5s" repeatCount="indefinite"/>
+                </circle>
+            </g>
+        </pattern>
+
+        <!-- 改良されたグローエフェクト -->
+        <radialGradient id="centerGlow" cx="50%" cy="50%" r="50%">
+            <stop offset="0%" style="stop-color:#9F7AEA;stop-opacity:0.15"/>
+            <stop offset="50%" style="stop-color:#667EEA;stop-opacity:0.1"/>
+            <stop offset="100%" style="stop-color:#4299E1;stop-opacity:0"/>
+        </radialGradient>
+
+        <!-- オーロラ効果 -->
+        <filter id="auroraBlur">
+            <feGaussianBlur stdDeviation="30"/>
+        </filter>
+
+        <!-- Pythonロゴ用のグラデーション -->
+        <linearGradient id="pythonGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:#4B8BBE"/>
+            <stop offset="100%" style="stop-color:#FFE873"/>
+        </linearGradient>
+
+        <!-- Pythonアイコンのパス定義 -->
+        <path id="pythonPath" d="M-12,-5 C-12,-8 -9,-10 -5,-10 L5,-10 C9,-10 12,-8 12,-5 L12,0 C12,3 9,5 5,5 L-5,5 C-9,5 -12,7 -12,10 L-12,15 C-12,18 -9,20 -5,20 L5,20 C9,20 12,18 12,15" 
+              transform="scale(0.7)"/>
+    </defs>
+
+    <!-- ベース背景 -->
+    <rect width="100%" height="100%" fill="url(#bgGradient)"/>
+
+    <!-- オーロラ効果レイヤー -->
+    <g filter="url(#auroraBlur)" opacity="0.1">
+        <ellipse cx="750" cy="0" rx="600" ry="400" fill="#9F7AEA">
+            <animate attributeName="ry" 
+                values="400;450;400" 
+                dur="10s" 
+                repeatCount="indefinite"/>
+        </ellipse>
+        <ellipse cx="1200" cy="600" rx="500" ry="300" fill="#4299E1">
+            <animate attributeName="rx" 
+                values="500;550;500" 
+                dur="12s" 
+                repeatCount="indefinite"/>
+        </ellipse>
+    </g>
+
+    <!-- 星空レイヤー -->
+    <rect width="100%" height="100%" fill="url(#starPattern)" opacity="0.5"/>
+
+    <!-- センターグロー -->
+    <circle cx="750" cy="400" r="400" fill="url(#centerGlow)">
+        <animate attributeName="r"
+            values="400;450;400"
+            dur="8s"
+            repeatCount="indefinite"/>
+        <animate attributeName="opacity"
+            values="0.8;1;0.8"
+            dur="8s"
+            repeatCount="indefinite"/>
+    </circle>
+
+    <!-- メインコンテンツ -->
+    <g transform="translate(750,400)">
+        <!-- 装飾リング -->
+        <g opacity="0.15">
+            <circle cx="0" cy="0" r="280" 
+                    stroke="url(#accentGradient)" 
+                    stroke-width="0.5" 
+                    fill="none"
+                    filter="url(#crystalGlow)">
+                <animate attributeName="stroke-dasharray"
+                    values="0,1800;1800,0;0,1800"
+                    dur="3s"
+                    repeatCount="indefinite"/>
+            </circle>
+        </g>
+
+        <!-- メインタイトル -->
+        <text x="0" y="-60" 
+              text-anchor="middle" 
+              font-family="'Helvetica Neue', Arial, sans-serif"
+              font-size="92" 
+              font-weight="100"
+              letter-spacing="4"
+              fill="#ffffff"
+              filter="url(#textEffect)"
+              opacity="0">
+            Hi! I'm nezumi
+            <animate attributeName="opacity" 
+                values="0;1" 
+                dur="0.8s" 
+                fill="freeze"/>
+            <animate attributeName="transform"
+                values="translate(0,20);translate(0,0)"
+                dur="0.8s"
+                fill="freeze"/>
+        </text>
+
+        <!-- サブタイトル -->
+        <text x="0" y="20" 
+              text-anchor="middle" 
+              font-family="'Helvetica Neue', Arial, sans-serif"
+              font-size="40" 
+              font-weight="100"
+              letter-spacing="6"
+              fill="#B794F4"
+              opacity="0">
+            <tspan>Python Developer</tspan><tspan dx="-2">🐍</tspan>
+            <animate attributeName="opacity" values="0;1" dur="1s" begin="0.5s" fill="freeze"/>
+        </text>
+
+        <!-- ロケーション -->
+        <text x="0" y="80" 
+              text-anchor="middle" 
+              font-family="'Helvetica Neue', Arial, sans-serif"
+              font-size="26" 
+              font-weight="100"
+              letter-spacing="3"
+              fill="#A0AEC0"
+              opacity="0">
+            <tspan fill="url(#accentGradient)">Fukuoka, Japan</tspan>
+            <animate attributeName="opacity" values="0;1" dur="1s" begin="1s" fill="freeze"/>
+        </text>
+
+    </g>
+
+    <!-- クリスタルライト -->
+    <g transform="translate(750,400)" filter="url(#crystalGlow)" opacity="0.6">
+        <circle cx="0" cy="0" r="2" fill="#ffffff">
+            <animate attributeName="opacity"
+                values="0.6;0.9;0.6"
+                dur="2s"
+                repeatCount="indefinite"/>
+        </circle>
+    </g>
+</svg>
