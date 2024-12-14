@@ -142,7 +142,7 @@
         <text x="0" y="-60" 
               text-anchor="middle" 
               font-family="'Helvetica Neue', Arial, sans-serif"
-              font-size="92" 
+              font-size="130" 
               font-weight="100"
               letter-spacing="4"
               fill="#ffffff"
@@ -160,10 +160,10 @@
         </text>
 
         <!-- サブタイトル -->
-        <text x="0" y="20" 
+        <text x="0" y="30" 
               text-anchor="middle" 
               font-family="'Helvetica Neue', Arial, sans-serif"
-              font-size="40" 
+              font-size="58" 
               font-weight="100"
               letter-spacing="6"
               fill="#B794F4"
@@ -173,10 +173,10 @@
         </text>
 
         <!-- ロケーション -->
-        <text x="0" y="80" 
+        <text x="0" y="100" 
               text-anchor="middle" 
               font-family="'Helvetica Neue', Arial, sans-serif"
-              font-size="26" 
+              font-size="38" 
               font-weight="100"
               letter-spacing="3"
               fill="#A0AEC0"
