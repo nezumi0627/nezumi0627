@@ -144,10 +144,10 @@
         </g>
 
         <!-- メインタイトル -->
-        <text x="0" y="-60" 
+        <text x="0" y="-100" 
               text-anchor="middle" 
               font-family="'Space Grotesk', sans-serif"
-              font-size="130" 
+              font-size="180" 
               font-weight="200"
               letter-spacing="4"
               fill="#ffffff"
@@ -165,10 +165,10 @@
         </text>
 
         <!-- サブタイトル -->
-        <text x="0" y="30" 
+        <text x="0" y="50" 
               text-anchor="middle" 
               font-family="'Space Grotesk', sans-serif"
-              font-size="58" 
+              font-size="90" 
               font-weight="200"
               letter-spacing="6"
               fill="#B794F4"
@@ -178,10 +178,10 @@
         </text>
 
         <!-- ロケーション -->
-        <text x="0" y="100" 
+        <text x="0" y="140" 
               text-anchor="middle" 
               font-family="'Space Grotesk', sans-serif"
-              font-size="38" 
+              font-size="58" 
               font-weight="200"
               letter-spacing="3"
               fill="#A0AEC0"
